@@ -1,3 +1,3 @@
-Hi, this is Andreas Alexander and this is my portfolio page!
+Hi, this is Andreas and this is my portfolio page!
 
 Sportspal design: sportspal.jpg
